@@ -1,0 +1,17 @@
+3,2,Spider-Man: Miles Morales,59.99
+3,2,Assassin's Creed:Valhalla,49.99
+3,3,Assassin's Creed:Valhalla,49.99
+2,2,Call of Duty: Black Ops - Cold War,59.99
+2,3,Call of Duty: Black Ops - Cold War,59.99
+1,1,Hyrule Warriors: Age of Calamity,39.99
+2,2,Ghost of Tsushima,49.99
+4,2,Marvel's Avengers,39.99
+2,3,Marvel's Avengers,39.99
+2,2,Mafia,39.99
+2,1,Luigi's Mansion,39.99
+2,3,WatchDogs: Legion,39.99
+2,1,Zelda: Link's Awakening,39.99
+1,2,Chronos: Before the Ashes,39.99
+2,1,Donkey Kong Country: Tropical Freeze,49.99
+3,2,Star Wars: Jedi Fallen Order,69.99
+2,3,Star Wars: Jedi Fallen Order,69.99
